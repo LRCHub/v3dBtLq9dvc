@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "春夏秋冬",
+  "base_artist": "Steady&Co.",
+  "createdAt": "2026-01-07T09:38:55.459477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/01_春夏秋冬_sumika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "張國榮",
+      "has_synced": true,
+      "path": "select/02_春夏秋冬_張國榮.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/03_春夏秋冬_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "Steady&Co.",
+      "has_synced": true,
+      "path": "select/04_春夏秋冬_Steady&Co..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春夏秋冬 ~Tou ! ~",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/05_春夏秋冬_~Tou_!_~_豚乙女.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "张国荣",
+      "has_synced": true,
+      "path": "select/06_春夏秋冬_张国荣.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "angela",
+      "has_synced": true,
+      "path": "select/07_春夏秋冬_angela.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "張國榮",
+      "has_synced": false,
+      "path": "select/08_春夏秋冬_張國榮.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "春夏秋冬(堀江由衣LIVE TOUR 2019 文学少女倶楽部)",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/09_春夏秋冬(堀江由衣LIVE_TOUR_2019_文学少女倶楽部)_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/10_春夏秋冬_Suara.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "春夏秋冬 A Balloon's Journey",
+      "artist": "Leslie Cheung",
+      "has_synced": true,
+      "path": "select/11_春夏秋冬_A_Balloon's_Journey_Leslie_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "徐小鳳",
+      "has_synced": false,
+      "path": "select/12_春夏秋冬_徐小鳳.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/13_春夏秋冬_sumika.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "Leslie Cheung",
+      "has_synced": true,
+      "path": "select/14_春夏秋冬_Leslie_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "Cheung, Leslie",
+      "has_synced": true,
+      "path": "select/15_春夏秋冬_Cheung,_Leslie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "春夏秋冬 - Shunkashuto",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/16_春夏秋冬_-_Shunkashuto_sumika.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "Psycho le Cému",
+      "has_synced": false,
+      "path": "select/17_春夏秋冬_Psycho_le_Cému.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "春夏秋冬",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/18_春夏秋冬_レミオロメン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春夏秋冬",
+      "artist": "Steady & Co.",
+      "has_synced": false,
+      "path": "select/pl_01_春夏秋冬_Steady_&_Co..txt"
+    }
+  ]
+}
